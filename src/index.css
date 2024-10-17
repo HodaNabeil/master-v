@@ -1,0 +1,14 @@
+:root {
+    --focus-main-color: #3182ce;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    font-family: "Poppins", sans-serif !important;
+    font-style: normal !important;
+    /* -webkit-filter: blur(5px); */
+}
+

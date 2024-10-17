@@ -1,0 +1,19 @@
+.input-auth input {
+    border: 3px solid transparent !important;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    padding: 6px 10px;
+}
+
+.input-auth input:focus {
+    border-color: var(--focus-main-color) !important;
+
+    outline: none;
+}
+
+.chakra-alert {
+    margin-top: 10px !important;
+}
